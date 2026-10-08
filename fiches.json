@@ -1,5 +1,6 @@
 [
   {
+    "id": "abbaclean-top",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -100,10 +101,87 @@
         "titre": "Délais"
       }
     ],
-    "sousTitre": "Traitement décontaminant des murs, façades et toitures",
-    "_id": "abbaclean-top"
+    "sousTitre": "Traitement décontaminant des murs, façades et toitures"
   },
   {
+    "id": "abbarouille",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "ABBA Produits",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "convertisseur de rouille",
+      "traitement",
+      "métal",
+      "abba"
+    ],
+    "pointsVigilance": [],
+    "produit": "ABBArouille",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Préparation aqueuse, semi-visqueuse, légèrement acide, prête à l'emploi. Agit par chélation : transforme la rouille en pellicule stable et inerte."
+          ],
+          [
+            "Usage",
+            "Supports métalliques ferreux rouillés, avant peinture. Forme une couche protectrice entre le support et le film de peinture."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "1 litre pour 5 à 10 m²."
+          ],
+          [
+            "Conditionnements",
+            "2 litres, 10 litres, 25 litres."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "Éliminer la rouille pulvérulente et non adhérente, et la calamine si nécessaire.",
+            "titre": "Brosser à la brosse métallique."
+          },
+          {
+            "texte": "Couvrir toute la surface de façon uniforme. Une pellicule noire se forme rapidement.",
+            "titre": "Appliquer à la brosse ou au pinceau."
+          },
+          {
+            "texte": "",
+            "titre": "Laisser sécher totalement."
+          },
+          {
+            "texte": "Élimine l'excédent éventuel de principe actif.",
+            "titre": "Rincer à l'éponge mouillée."
+          },
+          {
+            "texte": "Possible dans les jours, voire les quelques semaines suivantes.",
+            "titre": "Peindre une fois le support sec."
+          },
+          {
+            "texte": "",
+            "titre": "Nettoyer les outils à l'eau."
+          }
+        ],
+        "titre": "Déroulé de pose"
+      }
+    ],
+    "sousTitre": "Convertisseur de rouille avant peinture"
+  },
+  {
+    "id": "axter-alpal-3000-s",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -170,10 +248,315 @@
         "titre": "Déroulé de pose"
       }
     ],
-    "sousTitre": "Membrane d'étanchéité monocouche autoprotégée",
-    "_id": "axter-alpal-3000-s"
+    "sousTitre": "Membrane d'étanchéité monocouche autoprotégée"
   },
   {
+    "id": "neotex-neolastic-pu-primer",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "NEOTEX S.A.",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "primaire",
+      "résine",
+      "polyuréthane",
+      "neotex"
+    ],
+    "pointsVigilance": [],
+    "produit": "Neotex Néolastic® PU Primer",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Résine polyuréthane d'impression, monocomposante, en phase solvantée, à séchage rapide."
+          ],
+          [
+            "Usage",
+            "Primaire avant systèmes d'étanchéité liquide Néolastic®. Impression avant revêtement. Coloré avec les pâtes Néoteinte : finition filmogène, jaunissante mais résistante aux UV."
+          ],
+          [
+            "Supports",
+            "Béton, métal, bois, anciens revêtements et systèmes d'étanchéité Néolastic®, après préparation adaptée."
+          ],
+          [
+            "Teinte",
+            "Transparent."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "150 à 200 g/m² par couche au rouleau."
+          ],
+          [
+            "Conditionnement",
+            "Seau de 4 kg."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "lignes": [
+          [
+            "Température d'application",
+            "Entre 5 et 35 °C."
+          ],
+          [
+            "Humidité de l'air",
+            "Inférieure à 90 %."
+          ],
+          [
+            "Température du support",
+            "Supérieure de 3 °C au point de rosée."
+          ],
+          [
+            "Humidité du support",
+            "Inférieure à 5 % à cœur."
+          ],
+          [
+            "Béton neuf",
+            "Séché 28 jours."
+          ]
+        ],
+        "titre": "Conditions de chantier"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "selon les conditions ci-dessus.",
+            "titre": "Contrôler et préparer le support"
+          },
+          {
+            "texte": "Environ 2 minutes.",
+            "titre": "Homogénéiser au malaxeur électrique."
+          },
+          {
+            "texte": "Consommation selon le devis. Durée pratique d'utilisation : 60 minutes.",
+            "titre": "Appliquer au rouleau, au pinceau ou au pulvérisateur."
+          },
+          {
+            "texte": "",
+            "titre": "Recouvrir dans le délai ci-dessous."
+          }
+        ],
+        "titre": "Déroulé de pose"
+      },
+      {
+        "lignes": [
+          [
+            "Séchage",
+            "1 à 2 h."
+          ],
+          [
+            "Recouvrement",
+            "3 à 6 h, sans dépasser 36 h."
+          ],
+          [
+            "Circulation légère",
+            "12 h."
+          ],
+          [
+            "Séchage complet",
+            "7 jours."
+          ]
+        ],
+        "titre": "Délais"
+      }
+    ],
+    "sousTitre": "Primaire polyuréthane monocomposant"
+  },
+  {
+    "id": "neotex-neolastic",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "NEOTEX S.A.",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "étanchéité",
+      "résine",
+      "polyuréthane",
+      "SEL",
+      "neotex",
+      "surface courante",
+      "émergence"
+    ],
+    "pointsVigilance": [],
+    "produit": "Neotex Néolastic®",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Résine élastomère polyuréthane monocomposante, solvantée, appliquée à froid sans flamme. Membrane continue, élastique, sans joint."
+          ],
+          [
+            "Usage",
+            "SEL intérieur et extérieur : toitures-terrasses, inclinées et métalliques, terrasses, balcons, jardinières, toitures végétalisées. Neuf et rénovation. Pente ou vertical : Néolastic® Thyxo."
+          ],
+          [
+            "Supports",
+            "Béton, métal, ancien revêtement plastique ou résine, ancienne étanchéité bitumineuse, PVC ou polymère sans dépose."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "1,5 à 4,1 kg/m² selon le système. Espace non clos : 1,5 kg/m² minimum. Espace clos et habitable, entoilage total : jusqu'à 4,1 kg/m²."
+          ],
+          [
+            "Renforts",
+            "Bande Néotextile®, ou Néolastic® Fibre en 1 à 2 couches à ± 150 gr/ml/couche."
+          ],
+          [
+            "Primaire",
+            "Selon le support. Sec (ciment, métal, plastique) : Néolastic® PU Primer. Sec ou humide < 8 % (ciment, bitume, céramique poncée) : Néolastic® Acqua Primer. Pression hydrostatique, humidité < 8 % (ciment) : Néofloor® Primer AY. Eau en surface (ciment) : Néofloor® Primer WS."
+          ],
+          [
+            "Adjuvant",
+            "Néolastic® Adjuvant, 3 à 6 % en poids. Obligatoire en auto-lissant et au-delà de 750 gr/m²/couche."
+          ],
+          [
+            "Finition",
+            "Non circulable ou piétons : 1 à 2 couches de Néolastic® Finish (non jaunissante) ou Finish Eco (jaunissante), colorée à 10 % en poids de Néoteinte®, nuancier RAL. Anti-glissance : Néosand® CR."
+          ],
+          [
+            "Conditionnements",
+            "Seau métallique de 5 kg et de 25 kg."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "lignes": [
+          [
+            "Air",
+            "Au-dessus de +8 °C et en dessous de +35 °C. Humidité inférieure à 90 % HR."
+          ],
+          [
+            "Support",
+            "Plus de 3 °C au-dessus du point de rosée. Humidité inférieure à 5 % à cœur, jamais mouillé. Béton neuf : 28 jours de séchage minimum."
+          ],
+          [
+            "Résistance",
+            "Compression 25 MPa minimum. Cohésion 1,5 MPa minimum."
+          ],
+          [
+            "État",
+            "Exempt de laitance, corps gras, produit de cure et de tout produit réduisant l'adhérence. Nettoyé, réparé, renforcé. Après préparation chimique : rinçage et séchage complet."
+          ],
+          [
+            "Polymérisation",
+            "Aucun contact avec l'eau, les graisses ou les produits chimiques."
+          ]
+        ],
+        "titre": "Conditions de chantier"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "selon les conditions ci-dessus.",
+            "titre": "Préparer et aspirer le support"
+          },
+          {
+            "texte": "Choix selon le support, voir Pour le devis.",
+            "titre": "Appliquer le primaire si nécessaire."
+          },
+          {
+            "texte": "Agitation lente, environ 2 mn, renouvelée si besoin. Travailler depuis un camion ou un récipient, sans verser au sol.",
+            "titre": "Homogénéiser au malaxeur électrique."
+          },
+          {
+            "tableau": {
+              "entetes": [
+                "Adjuvant (% en poids)",
+                "Sans",
+                "3 %",
+                "4 %",
+                "5 %",
+                "6 %"
+              ],
+              "lignes": [
+                [
+                  "Durée pratique d'utilisation",
+                  "120 mn",
+                  "35 mn",
+                  "30 mn",
+                  "25 mn",
+                  "20 mn"
+                ],
+                [
+                  "Séchage de la couche",
+                  "8-12 h",
+                  "5 h",
+                  "4 h",
+                  "2,5 h",
+                  "1,5 h"
+                ]
+              ]
+            },
+            "texte": "Malaxer et appliquer aussitôt pour éviter une réaction exothermique dans le pot.",
+            "titre": "Doser l'adjuvant s'il est prévu."
+          },
+          {
+            "texte": "Angles rentrants, joints, fissures, jonctions, relevés, pénétrations. Néotextile® marouflé sur Néolastic® frais. Simultané en entoilage total.",
+            "titre": "Renforcer les points singuliers avant l'application générale."
+          },
+          {
+            "texte": "Rouleau : 2 à 3 couches croisées, poil de 12 à 18 mm résistant au solvant, monture en Y. Pinceau : angles, petites surfaces, accès difficiles. Spatule dentée de 3 à 3,5 mm en auto-lissant, puis débullage au rouleau à picots. Pulvérisateur : dilution 8 % maximum, « S » horizontaux puis « S » verticaux chevauchants en 2e couche.",
+            "titre": "Appliquer la membrane par zone complète, sans raccord."
+          },
+          {
+            "texte": "dans le délai ci-dessous.",
+            "titre": "Appliquer la finition retenue au devis"
+          },
+          {
+            "texte": "Solvant Néotex®, xylène, acétone ou MEC.",
+            "titre": "Nettoyer les outils aussitôt."
+          }
+        ],
+        "titre": "Déroulé de pose"
+      },
+      {
+        "lignes": [
+          [
+            "Pluie",
+            "Stable après 4 h."
+          ],
+          [
+            "Recouvrement",
+            "8 à 48 h, finition comprise. Au-delà : dépolir, ou raviver au Néoclean Ravivant ou à un solvant type acétone."
+          ],
+          [
+            "Circulation légère",
+            "12 h."
+          ],
+          [
+            "Séchage complet",
+            "7 jours."
+          ]
+        ],
+        "titre": "Délais en conditions normales, sans adjuvant"
+      }
+    ],
+    "sousTitre": "Étanchéité liquide polyuréthane monocomposante"
+  },
+  {
+    "id": "resistit-g-sk",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -305,10 +688,10 @@
         "titre": "Délais"
       }
     ],
-    "sousTitre": "Bande EPDM autocollante au butyle",
-    "_id": "resistit-g-sk"
+    "sousTitre": "Bande EPDM autocollante au butyle"
   },
   {
+    "id": "siplast-adestar",
     "dateSynthese": "23/09/2026",
     "dateValidation": "23/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -458,10 +841,455 @@
         "titre": "Délais à +23 °C et 50 % HR"
       }
     ],
-    "sousTitre": "Membrane bitume SBS monocouche autoadhésive, procédé ST4R",
-    "_id": "siplast-adestar"
+    "sousTitre": "Membrane bitume SBS monocouche autoadhésive, procédé ST4R"
   },
   {
+    "id": "theolaur-accrotherm",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "THÉOLAUR Peintures",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "accrochage",
+      "peinture",
+      "acrylique",
+      "théolaur",
+      "theotherm",
+      "émergence",
+      "lanterneau",
+      "cheminée"
+    ],
+    "pointsVigilance": [],
+    "produit": "Théolaur Accrotherm®",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Peinture d'accrochage élastomère, résine acrylique en phase aqueuse, prête à l'emploi. Aspect mat."
+          ],
+          [
+            "Usage",
+            "Extérieur. Pourtours et points singuliers en toiture avant Theotherm® Toiture & Bardage : skydômes, cheminées, avaloirs, zones d'écoulement des eaux."
+          ],
+          [
+            "Supports",
+            "Amiante-ciment, fibrociment, revêtements bitumineux, membranes d'étanchéité EPDM et PVC, anciennes peintures, paxalu."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "100 à 250 gr/m² selon la zone, la porosité et le relief du support."
+          ],
+          [
+            "Conditionnement",
+            "15 L."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "lignes": [
+          [
+            "Température",
+            "Entre +5 °C et +35 °C."
+          ],
+          [
+            "Hygrométrie",
+            "Inférieure à 80 % HR."
+          ],
+          [
+            "Support",
+            "Propre, parfaitement adhérent, sain et sec."
+          ]
+        ],
+        "titre": "Conditions de chantier"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "Dégraisser, brosser, dépoussiérer, éliminer les parties non adhérentes.",
+            "titre": "Préparer le support."
+          },
+          {
+            "texte": "au Thélo Stopmouss ou au Lauramousse.",
+            "titre": "Traiter mousses, champignons et algues"
+          },
+          {
+            "texte": "",
+            "titre": "Mélanger avant et pendant l'utilisation."
+          },
+          {
+            "tableau": {
+              "entetes": [
+                "Zone",
+                "Application"
+              ],
+              "lignes": [
+                [
+                  "Membrane d'étanchéité",
+                  "Un voile à 100 à 150 g/m²."
+                ],
+                [
+                  "Pourtours des structures",
+                  "Une couche sur 50 cm de largeur, à 200 à 250 g/m²."
+                ],
+                [
+                  "Zones d'écoulement des eaux",
+                  "2 couches à 250 g/m², séchage de 24 h entre les couches."
+                ]
+              ]
+            },
+            "texte": "",
+            "titre": "Appliquer selon la zone."
+          },
+          {
+            "tableau": {
+              "entetes": [
+                "Outil",
+                "Usage"
+              ],
+              "lignes": [
+                [
+                  "Manchon polyester 12 mm",
+                  "Surfaces lisses, type membrane d'étanchéité."
+                ],
+                [
+                  "Manchon méché 18 mm",
+                  "Surfaces plus structurées."
+                ],
+                [
+                  "Airless type Mark V",
+                  "Crépine gros maillage, filtre pompe 30 mailles, buse 631."
+                ]
+              ]
+            },
+            "texte": "",
+            "titre": "Appliquer à la brosse, au rouleau ou au pistolet airless."
+          },
+          {
+            "texte": "Ne pas évacuer l'eau de nettoyage dans l'évier.",
+            "titre": "Nettoyer le matériel à l'eau."
+          }
+        ],
+        "titre": "Déroulé de pose"
+      },
+      {
+        "lignes": [
+          [
+            "Recouvrement",
+            "24 h. Variable selon la température et l'humidité ambiante."
+          ]
+        ],
+        "titre": "Délais à +20 °C et 80 % HR"
+      }
+    ],
+    "sousTitre": "Peinture d'accrochage élastomère pour points singuliers"
+  },
+  {
+    "id": "theolaur-theotherm-bardages-couvertures",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "THÉOLAUR Peintures",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "revêtement",
+      "peinture",
+      "acrylique",
+      "confort thermique",
+      "théolaur",
+      "theotherm",
+      "surface courante"
+    ],
+    "pointsVigilance": [],
+    "produit": "Théolaur Theotherm spécial bardages et couvertures",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Revêtement souple anticorrosion à base de résine acrylique, prêt à l'emploi. Impression et finition."
+          ],
+          [
+            "Usage",
+            "Extérieur. Bardages et couvertures de pente minimale 5 %, pour le confort thermique. Non circulable. Jamais sur surface horizontale. Ne pas recouvrir le produit."
+          ],
+          [
+            "Supports",
+            "Acier galvanisé ou prélaqué, cuivre, zinc, amiante-ciment, fibrociment, tuile, bardeaux d'asphalte, anciennes peintures (hydrodiluables, glycérophtaliques, acryliques), membranes EPDM, PVC, TPO."
+          ],
+          [
+            "Teinte",
+            "Bases Blanc/BTP, BTF, BTN, teintées Colorimix®. Aspect velours. Bonne tenue exclue si coefficient d'absorption solaire supérieur à 0.7 ou indice de luminance Y inférieur à 35 %."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "± 4 m²/L ou 200 gr/m²/couche. En 2 couches : voile de 100 à 150 g/m², puis 250 à 300 g/m²."
+          ],
+          [
+            "Sous-couche",
+            "Teintes BTF et BTN : Theotherm Blanc/BTP en fausse teinte, obligatoire."
+          ],
+          [
+            "Encapsulation amiante-ciment",
+            "Types A et B : 400 g/m² au total, dernière couche de couleur différente. Épaisseur sèche : type A 300 µm en moyenne, 250 µm en tout point ; type B 250 µm minimum, 200 µm en tout point ; type C 200 µm en tout point."
+          ],
+          [
+            "Produits associés",
+            "Protexfer Prim Anti-Corrosion (métal rouillé), Thélostop Mouss (mousses, algues), Theotherm Flash (eau stagnante), Accrotherm (pourtours, sur 50 cm à 200 à 250 g/m²)."
+          ],
+          [
+            "Conditionnement",
+            "15 L."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "lignes": [
+          [
+            "Température",
+            "Entre +5 °C et +35 °C."
+          ],
+          [
+            "Hygrométrie",
+            "Inférieure à 80 % HR."
+          ],
+          [
+            "Support",
+            "Propre, adhérent, sec et sain. Étanchéité vérifiée avant application."
+          ]
+        ],
+        "titre": "Conditions de chantier"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "Dégraisser, brosser, dépoussiérer, éliminer les parties non adhérentes. Lessiver à la lessive alcaline, rincer, laisser sécher. Peinture brillante ou satinée : poncer avant lessivage.",
+            "titre": "Préparer le support."
+          },
+          {
+            "texte": "avec les produits associés ci-dessus. Forte contamination : nettoyeur haute pression et séchage avant traitement.",
+            "titre": "Traiter rouille, mousses et eau stagnante"
+          },
+          {
+            "texte": "Skydômes, cheminées, avaloirs. Attendre 24 h, puis recouvrir de Theotherm sur 20 cm minimum.",
+            "titre": "Traiter les pourtours à l'Accrotherm."
+          },
+          {
+            "texte": "",
+            "titre": "Mélanger le produit."
+          },
+          {
+            "texte": "pour les teintes BTF et BTN.",
+            "titre": "Appliquer la fausse teinte Blanc/BTP"
+          },
+          {
+            "tableau": {
+              "entetes": [
+                "Matériel",
+                "Réglage"
+              ],
+              "lignes": [
+                [
+                  "Airless",
+                  "Buse verte 5/21, filtre 60 mailles. 150 bars (Mark V de Graco) ou 110 bars (Wagner SF23), selon la température."
+                ],
+                [
+                  "Rouleau",
+                  "Microliss HD12. Aspect légèrement poché."
+                ]
+              ]
+            },
+            "texte": "Membrane EPDM, PVC, TPO : dilué à 8 %. Autres supports : non dilué.",
+            "titre": "Appliquer le voile au pistolet airless, 100 à 150 g/m²."
+          },
+          {
+            "texte": "Membrane : 2 à 3 h, sec au toucher. Autres supports : 20 à 30 min minimum.",
+            "titre": "Attendre avant la 2e couche."
+          },
+          {
+            "texte": "",
+            "titre": "Appliquer la 2e couche non diluée, 250 à 300 g/m²."
+          },
+          {
+            "texte": "Ne pas évacuer l'eau de nettoyage dans l'évier.",
+            "titre": "Nettoyer le matériel à l'eau."
+          }
+        ],
+        "titre": "Déroulé de pose"
+      },
+      {
+        "lignes": [
+          [
+            "Sec au toucher",
+            "12 h."
+          ],
+          [
+            "Recouvrable",
+            "24 h."
+          ],
+          [
+            "Propriétés du film",
+            "Après 72 h de séchage, en conditions normales de température et d'hygrométrie."
+          ]
+        ],
+        "titre": "Délais à +20 °C et 60 % HR"
+      }
+    ],
+    "sousTitre": "Revêtement thermique anticorrosion acrylique"
+  },
+  {
+    "id": "triflex-cryl-enduit",
+    "dateFiche": "",
+    "dateSynthese": "07/10/2026",
+    "dateValidation": "07/10/2026",
+    "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
+    "fabricant": "Triflex GmbH & Co. KG",
+    "informationsAbsentes": [],
+    "mention": "Fiche Oricami.",
+    "motsCles": [
+      "ragréage",
+      "enduit",
+      "résine",
+      "PMMA",
+      "triflex"
+    ],
+    "pointsVigilance": [],
+    "produit": "Triflex Cryl Enduit",
+    "reference": "",
+    "rubriques": [
+      {
+        "lignes": [
+          [
+            "Nature",
+            "Enduit de ragréage à réaction rapide, résine PMMA, avec catalyseur."
+          ],
+          [
+            "Usage",
+            "Égaliser les défauts de planéité sous les systèmes Triflex : recouvrements de non-tissé, cavités."
+          ],
+          [
+            "Teinte",
+            "7032 Gris silex."
+          ]
+        ],
+        "titre": "Le produit"
+      },
+      {
+        "lignes": [
+          [
+            "Consommation",
+            "Environ 1,40 kg/m² par mm d'épaisseur, sur surface plane et lisse."
+          ],
+          [
+            "Seau",
+            "15,00 kg de résine + 0,60 kg de catalyseur (6 x 0,10 kg), soit 15,60 kg."
+          ]
+        ],
+        "titre": "Pour le devis"
+      },
+      {
+        "lignes": [
+          [
+            "Air et support",
+            "Entre ± 0 °C et + 35 °C."
+          ],
+          [
+            "Surface",
+            "Au moins + 3 °C au-dessus du point de rosée, sinon risque d'effet de séparation."
+          ],
+          [
+            "Support",
+            "Stable, sec, sans élément désolidarisé ou nuisant à l'adhérence. Adhérence contrôlée au cas par cas."
+          ],
+          [
+            "Humidité",
+            "Aucune infiltration possible par le dessous du revêtement."
+          ],
+          [
+            "Lieux fermés",
+            "Ventilation forcée, renouvellement de l'air au moins 7 fois par heure."
+          ]
+        ],
+        "titre": "Conditions de chantier"
+      },
+      {
+        "etapes": [
+          {
+            "texte": "selon les conditions ci-dessus.",
+            "titre": "Contrôler le support"
+          },
+          {
+            "texte": "",
+            "titre": "Mélanger la résine de base."
+          },
+          {
+            "tableau": {
+              "entetes": [
+                "Température",
+                "Catalyseur pour 15 kg de résine"
+              ],
+              "lignes": [
+                [
+                  "± 0 °C à + 25 °C",
+                  "0,60 kg"
+                ],
+                [
+                  "+ 25 °C à + 35 °C",
+                  "0,30 kg"
+                ]
+              ]
+            },
+            "texte": "",
+            "titre": "Doser le catalyseur selon la température."
+          },
+          {
+            "texte": "Sans grumeaux. Transvaser et brasser à nouveau. Ne rien ajouter.",
+            "titre": "Mélanger au mixeur, doucement, 2 mn mini."
+          },
+          {
+            "texte": "dans le délai d'utilisation ci-dessous.",
+            "titre": "Appliquer l'enduit"
+          }
+        ],
+        "titre": "Déroulé de pose"
+      },
+      {
+        "lignes": [
+          [
+            "Délai d'utilisation",
+            "15 mn environ."
+          ],
+          [
+            "Praticable",
+            "1 heure environ, étape suivante possible."
+          ]
+        ],
+        "titre": "Délais à + 20 °C"
+      }
+    ],
+    "sousTitre": "Enduit de ragréage PMMA"
+  },
+  {
+    "id": "triflex-cryl-uniprimaire-285",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -613,10 +1441,10 @@
         "titre": "Délais à +20 °C"
       }
     ],
-    "sousTitre": "Primaire PMMA pour systèmes Triflex",
-    "_id": "triflex-cryl-uniprimaire-285"
+    "sousTitre": "Primaire PMMA pour systèmes Triflex"
   },
   {
+    "id": "triflex-prodetail",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -760,10 +1588,10 @@
         "titre": "Délais à +20 °C"
       }
     ],
-    "sousTitre": "Étanchéité PMMA armée pour raccords de détail",
-    "_id": "triflex-prodetail"
+    "sousTitre": "Étanchéité PMMA armée pour raccords de détail"
   },
   {
+    "id": "triflex-protect",
     "dateFiche": "",
     "dateSynthese": "23/09/2026",
     "dateValidation": "23/09/2026",
@@ -908,10 +1736,10 @@
         "titre": "Délais à +20 °C"
       }
     ],
-    "sousTitre": "Étanchéité PMMA armée",
-    "_id": "triflex-protect"
+    "sousTitre": "Étanchéité PMMA armée"
   },
   {
+    "id": "triflex-proterra",
     "dateSynthese": "24/09/2026",
     "dateValidation": "24/09/2026",
     "entete": "FICHE ORICAMI · DEVIS ET CHANTIER",
@@ -1056,7 +1884,6 @@
         "titre": "Délais à +20 °C"
       }
     ],
-    "sousTitre": "Étanchéité PMMA armée pour balcons, terrasses et coursives",
-    "_id": "triflex-proterra"
+    "sousTitre": "Étanchéité PMMA armée pour balcons, terrasses et coursives"
   }
 ]
